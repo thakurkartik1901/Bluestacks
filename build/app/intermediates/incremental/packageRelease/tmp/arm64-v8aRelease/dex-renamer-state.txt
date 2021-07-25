@@ -1,4 +1,0 @@
-#Sun Jul 25 19:32:43 IST 2021
-base.0=/Users/kartikthakur/Projects/fluttery/test/app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
