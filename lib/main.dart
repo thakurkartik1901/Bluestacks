@@ -8,5 +8,3 @@ void main() => runApp(
         child: AppWidget(),
       ),
     );
-
-/// flutter pub run build_runner watch --delete-conflicting-outputs
