@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/bluestack/app/BuildConfig.java
+ com.bluestack.app.BuildConfig
